@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "鼠標位置 v2", "鼠標位置 v2\鼠標位置 v2.csproj", "{831E21FD-B0C2-4E0C-9BA2-89FB8BAB9F98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{831E21FD-B0C2-4E0C-9BA2-89FB8BAB9F98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{831E21FD-B0C2-4E0C-9BA2-89FB8BAB9F98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{831E21FD-B0C2-4E0C-9BA2-89FB8BAB9F98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{831E21FD-B0C2-4E0C-9BA2-89FB8BAB9F98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E6065DD-7752-4176-9898-B24D9856C106}
+	EndGlobalSection
+EndGlobal
